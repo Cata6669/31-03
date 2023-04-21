@@ -38,6 +38,7 @@ li a {
 }
 li a:hover{
     color: red;
+    background-color: white;
 }
 /* fin NAVBAR */
 /* HERO */
