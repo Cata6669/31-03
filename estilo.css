@@ -45,6 +45,7 @@ li a:hover{
 .hero{
     background-image:linear-gradient(rgba(63, 36, 241, 0.544),
                 rgba(0,0,0,0.5)), url(img/hero.jpg);
+    color:aliceblue;
     width: 100%;
     height: 650px;
     background-repeat: no-repeat;
